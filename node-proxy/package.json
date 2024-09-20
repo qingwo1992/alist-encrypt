@@ -2,6 +2,7 @@
   "name": "alist-encrypt",
   "version": "1.0.0",
   "description": "",
+  "type":"mudule"
   "main": "app.js",
   "scripts": {
     "dev": "ts-node-dev -r tsconfig-paths/register app.js",
